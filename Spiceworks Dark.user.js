@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          	Spiceworks Dark
 // @description     Dark userscript for Spiceworks
-// @author			 
+// @author			Michael.SC (https://community.spiceworks.com/people/michaelsc) 
 // @match			https://*.spiceworks.com/*
 // @grant			GM_addStyle
 // @version         0.1.001
@@ -29,6 +29,7 @@ addGlobalStyle('nav {background-color: #292D30 !important;}');
 addGlobalStyle('.domestic-menus_entry > a {background-color: #292D30 !important;}');
 addGlobalStyle('.sui-opt-in .domestic-menus_submenu {background-color: #292D30 !important;}');
 
+//addGlobalStyle('  {background-color: #292D30 !important;}');
 
 //Text
 addGlobalStyle('.nb_sidebar h2 {color: #DC5B23 !important;}');
