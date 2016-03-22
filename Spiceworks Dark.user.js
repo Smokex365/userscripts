@@ -19,7 +19,7 @@ function addGlobalStyle(css) {
     head.appendChild(style);
 }
 
-//ayout
+//Layout
 addGlobalStyle('.base .sui-fluid-container body.sui- .sui-body {background-color: #292D30 !important;}');
 addGlobalStyle('container {background-color: #292D30 !important;}');
 addGlobalStyle('body.sui-* {background-color: #292D30 !important;}');
@@ -28,7 +28,8 @@ addGlobalStyle('body, body.sui-opt-in {background-color: #292D30 !important;}');
 addGlobalStyle('nav {background-color: #292D30 !important;}');
 addGlobalStyle('.domestic-menus_entry > a {background-color: #292D30 !important;}');
 addGlobalStyle('.sui-opt-in .domestic-menus_submenu {background-color: #292D30 !important;}');
-
+addGlobalStyle('div.two_column div.wide_column {background-color: #292D30 !important;}');
+addGlobalStyle('#sidebar #adbox #gsidebar, #sidebar #sidebar_box #gsidebar {background-color: #292D30 !important;}')
 //addGlobalStyle('  {background-color: #292D30 !important;}');
 
 //Text
