@@ -4,7 +4,7 @@
 // @author			Michael.SC (https://community.spiceworks.com/people/michaelsc) 
 // @match			https://*.spiceworks.com/*
 // @grant			GM_addStyle
-// @version         0.1.001
+// @version         0.1.002
 // @updateURL		https://github.com/Smokex365/userscripts/raw/master/Spiceworks%20Dark.user.js
 // @supportURL 		https://github.com/Smokex365/userscripts/issues
 // ==/UserScript==
