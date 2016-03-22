@@ -1,3 +1,3 @@
 # userscripts
 
-Various userscripts for site I use.
+Various userscripts for sites I use.
